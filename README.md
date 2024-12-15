@@ -21,8 +21,9 @@ Efficiency in communication, privacy and engagement.
 <a href="https://github.com/aahnik/tgcf/actions/workflows/quality.yml"><img src="https://github.com/aahnik/tgcf/actions/workflows/quality.yml/badge.svg" alt="Code Quality"></a>
 </p>
 
-<align="center"> A different take on **tgcf** to advance it's features towards further privacy and efficency in communication.
-
+<p align="center">
+A different take on **tgcf** to advance it's features towards further privacy and efficency in communication.
+</p>
 
 ## Features
 
