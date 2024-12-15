@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 <p align="center">
-<a href = "https://github.com/aahnik/tgcf" > <img src = "https://github.com/Mikey88fr/Vox_Populi/blob/main/7YSHHWTRM2BFPCQNR868AD63X0.jpeg" alt = "tgcf logo"  width=120> </a>
+<a href = "https://github.com/aahnik/tgcf" > <img src = "https://github.com/Mikey88fr/Vox_Populi/blob/main/7YSHHWTRM2BFPCQNR868AD63X0.jpeg" alt = "Vox logo"  width=240> </a>
 </p>
 
 <h1 align="center"> tgcf </h1>
