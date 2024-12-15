@@ -4,7 +4,7 @@
 <a href = "https://github.com/aahnik/tgcf" > <img src = "https://github.com/Mikey88fr/Vox_Populi/blob/main/7YSHHWTRM2BFPCQNR868AD63X0.jpeg" alt = "Vox logo"  width=240> </a>
 </p>
 
-<h1 align="center"> tgcf </h1>
+<h1 align="center"> Vox Populi </h1>
 
 <p align="center">
 The ultimate tool to automate custom telegram message forwarding.
