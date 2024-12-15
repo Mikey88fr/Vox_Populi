@@ -22,7 +22,7 @@ Efficiency in communication, privacy and engagement.
 </p>
 
 <p align="center">
-A different take on **tgcf** to advance it's features towards further privacy and efficency in communication.
+A different take on tgcf to advance it's features towards further privacy and efficency in communication.
 </p>
 
 ## Features
