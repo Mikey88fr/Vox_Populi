@@ -7,7 +7,7 @@
 <h1 align="center"> Vox Populi </h1>
 
 <p align="center">
-The ultimate tool to automate custom telegram message forwarding.
+Efficiency in communication, privacy and engagement.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ The ultimate tool to automate custom telegram message forwarding.
 <a href="https://github.com/aahnik/tgcf/actions/workflows/quality.yml"><img src="https://github.com/aahnik/tgcf/actions/workflows/quality.yml/badge.svg" alt="Code Quality"></a>
 </p>
 
- Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! **tgcf** is an advanced telegram chat forwarding automation tool that can fulfill all your custom needs.
+A different take on **tgcf** to advance it's features towards further privacy and efficency in communication.
 
 
 ## Features
